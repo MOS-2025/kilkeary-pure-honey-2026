@@ -1,5 +1,14 @@
-body::before {
-  display: block;
-  content: '';
-  height: 60px;
+
+
+body {
+  padding-top: 120px;
+}
+
+.hero-section {
+  min-height: cala(100vh - 120px);
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url("../images/pexels-roman-odintsov-6422025.jpg") center / cover no-repeat;
 }
