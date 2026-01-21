@@ -80,9 +80,12 @@ The site highlights the brand story, honey varieties, beekeeping classes, media 
 **Validator Testing**
 
 - HTML
-    - No errors were returned when passing through the official [W3C validator]()
+    - No errors were returned when passing through the official [![HTML Validation](https://www.w3.org/html/logo/badge/html5-badge-h-solo.png)](https://validator.w3.org/nu/?doc=https://mos-2025.github.io/kilkeary-pure-honey-2026/index.html)
+
 - CSS
-    - No errors were found when passing through the official validation tool
+    - No errors were found when passing through the official validation tool [![CSS Validation](https://jigsaw.w3.org/css-validator/images/vcss)](https://jigsaw.w3.org/css-validator/validator?uri=[https://your-site.com](https://mos-2025.github.io/kilkeary-pure-honey-2026/style.css)
+
+      
 - Lighthouse
 - 
     - <img width="600" height="725" alt="image" src="https://github.com/user-attachments/assets/6a8103f9-e3b5-42d3-a401-8695941b54bb" />
@@ -111,6 +114,7 @@ The live link can be found here - https://mos-2025.github.io/kilkeary-pure-hone
  
  
  
+
 
 
 
