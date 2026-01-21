@@ -83,7 +83,7 @@ The site highlights the brand story, honey varieties, beekeeping classes, media 
 - HTML
     - No errors were returned when passing through the official [W3C validator]()
 - CSS
-    - No errors were found when passing through the official [(Jigsaw) validator]()
+    - No errors were found when passing through the official [![CSS Validation](https://jigsaw.w3.org/css-validator/images/vcss)](https://jigsaw.w3.org/css-validator/validator?uri= https://mos-2025.github.io/kilkeary-pure-honey-2026/style.css) 
 - Lighthouse
 - 
     - <img width="600" height="725" alt="image" src="https://github.com/user-attachments/assets/6a8103f9-e3b5-42d3-a401-8695941b54bb" />
@@ -117,6 +117,7 @@ You can break the credits section up into Content and Media, depending on what y
  
  
  
+
 
 
 
