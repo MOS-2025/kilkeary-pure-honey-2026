@@ -8,43 +8,60 @@ The site highlights the brand story, honey varieties, beekeeping classes, media 
 **Features**
 
 - **Navigation Bar**
+- <img width="940" height="78" alt="image" src="https://github.com/user-attachments/assets/d9d24450-3fb7-49d6-9426-002bbb421383" />
+
     - The full responsive navigation bar includes. About US, Our Honey, and Contact Us sections.
     - This section will allow the user to easily navigate to different sections of the website across all devices
     - The Nav bar was designed using bootstrap 5.3 and is fully responsive.
 
 - **Hero Image**
+- <img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/f46d7cfe-db1a-4d80-8bab-ec6d3714460d" />
+
     - The Hero image is full responsive across all devices
     - The company name is clearly displayed to the used.
     - The section gives the used a clear understanding about the site.
 
 - **Classes section**
+- <img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/fbc0f2ee-03ad-4641-bc25-bb97a2b44080" />
+
     - Indicated to users that beekeeping classed are coming soon in 2026
     - The 3 cards give detailed information about the available classed.
     - Bootstrap is used to provide a clear layout.
 
 - **About Us**
+- <img width="940" height="331" alt="image" src="https://github.com/user-attachments/assets/59025f73-f94b-4feb-9718-b58b4f4cc344" />
+- <img width="940" height="373" alt="image" src="https://github.com/user-attachments/assets/ee43d00d-bff4-4e74-aae8-753cd604c2f2" />
+- <img width="940" height="370" alt="image" src="https://github.com/user-attachments/assets/262cabb9-d806-424b-ac48-9258542af8f1" />
+
     - A brief overview and philosophy of the company is detailed in the about us section. Images are also used to create a good user experience.
     - Video and Audio file are added to this section of bees on one of Kilkeary Pure Honey Hives.
     - Bootstrap styling is used to provide a clear layout
 
 - **Our Honey**
+- <img width="940" height="337" alt="image" src="https://github.com/user-attachments/assets/c6fe5c5f-286d-4cf7-bfcc-6790358cff0e" />
+
     - This section details the four different varieties of honey that Kilkeary Pure Honey have available
     - A brief overview of the honey and image of honey are included in the cards of visual impact.
 
 - **Contact Info**
+- <img width="940" height="367" alt="image" src="https://github.com/user-attachments/assets/6e0cf98b-218a-442f-93af-6cd7ed2416ba" />
+
     - This section details the Address, Eircode, Mobile and email address of the company, for potential customers to contact the business
     - A brief overview of the honey and image of honey are included in the cards of visual impact.
     - Google maps are imbedded in the site showing the exact location of Kilkeary Pure Honey.
 
 - **Frequently Asked Questions**
+- <img width="940" height="385" alt="image" src="https://github.com/user-attachments/assets/ba4bb5f0-58d3-4818-8b43-7dfcb613647d" />
+
     - This section details frequently asked question for previous customers
     - The colour theme of black and white is continued in the section keeping the same theme across the website.
 
 - **Footer**
+- <img width="940" height="60" alt="image" src="https://github.com/user-attachments/assets/ef21a3a9-3532-4f3d-bd30-5816bd6e7fd7" />
+
     - Kilkeary Pure Honey is centred in the middle of the screen.
     - Social media handles are added to the footer.
- <img width="1413" height="772" alt="image" src="https://github.com/user-attachments/assets/991346e9-500f-4fdf-adc3-aa881218b06f" />
-
+ 
 
 **Technologies Used**
 
@@ -56,7 +73,7 @@ The site highlights the brand story, honey varieties, beekeeping classes, media 
 
 **Testing**
 
-- I tested the webpage on different browser. Chrome and Edge
+- I tested the webpage on different browsers. Chrome and Edge.
 - I confirmed that all for the links on the webpage are working and directing to the correct section.
 - I confirmed that the website is responsive across all devices and the nav bar appears on the left side of the page on mobile devices.
 - I encounter a particular issue, when using prettier extension in CS Code. Prettier added / in separate section of the code, which appeared as waning when I ran the code through HTML Validation.
@@ -68,7 +85,9 @@ The site highlights the brand story, honey varieties, beekeeping classes, media 
 - CSS
     - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 - Lighthouse
-    - 
+- 
+    - <img width="600" height="725" alt="image" src="https://github.com/user-attachments/assets/6a8103f9-e3b5-42d3-a401-8695941b54bb" />
+
 
 **Commits & Deployment**
 
@@ -98,5 +117,6 @@ You can break the credits section up into Content and Media, depending on what y
  
  
  
+
 
 
