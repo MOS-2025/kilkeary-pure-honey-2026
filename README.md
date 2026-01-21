@@ -70,6 +70,10 @@ The site highlights the brand story, honey varieties, beekeeping classes, media 
 - Custom CSS
 - Google Maps Embed API
 
+- Layout across multiple devices 
+- <img width="1416" height="761" alt="image" src="https://github.com/user-attachments/assets/771d47fb-5bad-4952-94e0-2886307a6745" />
+
+
 **Testing**
 
 - I tested the webpage on different browsers. Chrome and Edge.
@@ -114,6 +118,7 @@ The live link can be found here - https://mos-2025.github.io/kilkeary-pure-hone
  
  
  
+
 
 
 
