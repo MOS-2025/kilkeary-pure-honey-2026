@@ -95,7 +95,7 @@ The site highlights the brand story, honey varieties, beekeeping classes, media 
     - All the Commits are were commented through the project.
     - The project was deployed to GitHub after one of the early commits, to ensure the was no issues with the deployment.
 
-The live link can be found here - 
+The live link can be found here - https://mos-2025.github.io/kilkeary-pure-honey-2026/
 
 **Credits**
 
@@ -117,6 +117,7 @@ You can break the credits section up into Content and Media, depending on what y
  
  
  
+
 
 
 
